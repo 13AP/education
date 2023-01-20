@@ -37,15 +37,14 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
 5.	Attend a Mid-State Student Life Event
      1.	https://www.facebook.com/groups/mstclife/events
 
-6.	Attend an AITP virtual or in person event
-7.	Attend an Industry Online Webinar
-8.	Plan or volunteer at a conference at Mid-State
-9.	Suggest an event to your instructor
+6.	Attend an Industry Online Webinar
+7.	Plan or volunteer at a conference at Mid-State
+8.	Suggest an event to your instructor
 
 ### Organizations (0 – 3)
 1.	Act as a Gaming Club Leader (Hold a position or run an event)
 2.	Become a member of any student organization on campus
-3.	Be a member of a professional association or group (AITP, CWITA, etc…)
+3.	Be a member of a professional association or group (Toastmasters, CWITA, etc…)
 4.	Become a member and join an initiative with The Knoble
      1.	https://www.theknoble.com/
 
@@ -56,43 +55,64 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
 6.	Become a mentee
      1.	Through CWITA (http://cwita.org/about/
 )
-     1.	Cybersecurity Mentoring Hub
-     1.	WiCyS (Women in Cybersecurity) Mentorship
-     1.	CMCP (International Consortium of Minority Cybersecurity Professionals)
      1.	Through another org or individual
-7.	Become a member and write about one of the resources of the Cyber Students Organization
-     1.   A free membership is available here: https://www.cyberstudents.org/
-
-9.	Sign up as a member of InfraGard:
-     1.	https://www.infragardnational.org/
-
-10.	Suggest an organization to your instructor
+7.	Suggest an organization to your instructor
 
 ### News and Information (0 – 1)
-1.	Sign up for the SecFraudOps Newsletter
-     1.	https://secfraudops.substack.com/
+1.	Sign up for the tldr Newsletter
+     1.	https://tldr.tech/
 
-2.	Subscribe to the Hacker History Podcast
-     1.   https://hackerhistory.com/
+2.	Subscribe to the Code Project Newsletter
+     1.   https://www.codeproject.com/script/Membership/Modify.aspx
 
-4.	Subscribe to the Blue Security Podcast
-     1.	https://anchor.fm/blue-security-podcast
+3.   Subscribe to the Tech Republic Newsletter
+     1.   https://www.techrepublic.com/newsletters/
 
-5.   Subcribe to the Security Now Podcast or YouTube channel
-     1.   https://www.youtube.com/c/securitynow
+4.   Subscribe to the Github Explore
+     1.   https://github.com/explore/email
 
-6.	Subscribe to the Naket Security Newsletter or Podcast
-     1.   https://nakedsecurity.sophos.com/
+5.	Subscribe to the Hanselminutes Podcast
+     1.	https://hanselminutes.com/
 
-7.   Subscribe to The Langley Files: A CIA Podcast
+6.   Subcribe to the Arstechnica bloc
+     1.   https://arstechnica.com/tag/blog/
+
+7.	Subscribe to the ChangeLog
+     1.   https://changelog.com/podcast
+
+8.   Subscribe to The Langley Files: A CIA Podcast
      1.   https://podcasts.apple.com/us/podcast/the-langley-files-a-cia-podcast/id1645885248
 
-8.	Read a white paper (8+ pages) on a topic related to your major
-9.	Subscribe and listen to an industry podcast
-10.	Read a book and review it
-11.	Suggest a news source to your instructor
+9.   Subscribe to the SyntaxFM
+     1.   https://syntax.fm/
+
+9.   Subscribe to CodeNewbie podcast
+     1.   https://www.codenewbie.org/podcast
+
+10.	Read a white paper (8+ pages) on a topic related to your major
+11.	Subscribe and listen to an industry podcast
+12.	Read a book and review it
+13.	Suggest a news source to your instructor
 
 ### Media (0 – 1)
+
+
+pirates of silicon valley
+the social network
+the imitation game
+war games
+jobs
+tron
+
+"Ex Machina" (2014) is a psychological thriller that explores the relationship between a programmer and a humanoid AI he created.
+"The Terminator" (1984) is a classic science fiction film about a cyborg assassin sent back in time to kill Sarah Connor, the future mother of the leader of the human resistance.
+"I, Robot" (2004) is a science fiction film set in a future where robots are a common sight in everyday life and follows a detective who investigates a murder committed by a robot.
+"Transcendence" (2014) is a science fiction film that explores the creation of a super-intelligent AI and its consequences.
+
+
+
+
+
 1.	The 14 Absolute Truths of Security
      1.	https://www.youtube.com/watch?v=UvUyDFUza64
 
