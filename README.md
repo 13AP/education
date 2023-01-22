@@ -97,129 +97,55 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
 ### Media (0 – 1)
 
 
-pirates of silicon valley
-the social network
-the imitation game
-war games
-jobs
-tron
 
-"Ex Machina" (2014) is a psychological thriller that explores the relationship between a programmer and a humanoid AI he created.
+
+
+
+
+
+"" (2014) is a psychological thriller that explores the relationship between a programmer and a humanoid AI he created.
 "The Terminator" (1984) is a classic science fiction film about a cyborg assassin sent back in time to kill Sarah Connor, the future mother of the leader of the human resistance.
-"I, Robot" (2004) is a science fiction film set in a future where robots are a common sight in everyday life and follows a detective who investigates a murder committed by a robot.
-"Transcendence" (2014) is a science fiction film that explores the creation of a super-intelligent AI and its consequences.
+"" (2004) is a science fiction film set in a future where robots are a common sight in everyday life and follows a detective who investigates a murder committed by a robot.
+"" (2014) is a science fiction film that explores the creation of a super-intelligent AI and its consequences.
 
 
 
 
 
-1.	The 14 Absolute Truths of Security
-     1.	https://www.youtube.com/watch?v=UvUyDFUza64
+1.	Pirates of silicon valley
+     1.	https://www.imdb.com/title/tt0168122/
 
-2.	Your 5-year path
-     1.	https://www.blackhillsinfosec.com/webcast-5-year-plan-infosec/
+2.	The social network
+     1.	https://www.imdb.com/title/tt1285016/
 
 3.	Hacking Google Series
      1.   https://www.youtube.com/playlist?app=desktop&list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H
 
-5.	Stuxnet documentary
-     1.	https://www.imdb.com/title/tt5446858/
+5.	War Games
+     1.	https://www.imdb.com/title/tt0086567/
 
 6.	Catch Me if You Can
      1.	https://www.imdb.com/title/tt0264464/
 
-7.	Enron – Smartest Guys in the Room
-     1.	https://www.imdb.com/title/tt1016268/
+7.	Jobs
+     1.	https://www.imdb.com/title/tt2357129/
 
-8.	Operation Donnie Brasco
-     1.	https://www.youtube.com/watch?v=nUbFXiqgnm0
+8.	Ex Machina
+     1.	https://www.imdb.com/title/tt0470752/
 
-9.	Made in Beijing: The Plan for Global Market Domination
-     1.	https://www.youtube.com/watch?v=GdapE82GceA
+9.	The Terminator
+     1.	https://www.imdb.com/title/tt0088247/
 
 10.	The Imitation Game
      1.   https://www.imdb.com/title/tt2084970/
+     
+11.	I, Robot
+     1.   https://www.imdb.com/title/tt0343818/
+     
+12.	Transcendence
+     1.   https://www.imdb.com/title/tt2209764/
 
-11.   Codebreaker Documentary
-     1.   https://www.imdb.com/title/tt2119396/
-
-12. We Are Legion – The Story Of The Hacktivists
-     1.   https://lnkd.in/dEihGfAg)
-
-13. The Internet’s Own Boy: The Story Of Aaron Swartz
-     1.   https://lnkd.in/d3hQVxqp
-
-15. Def Con 30 Obsidian Stations (Blue Team YouTube Videos, watch one or many).
-     1.   https://www.youtube.com/watch?v=Km-gzMceT6M&list=PLvQcui-UIwfSvcB6mHYK-KSTVRqOyqIRJ
-
-17. Hackers Wanted
-     1.   https://lnkd.in/du-pMY2R
-
-18. Secret History Of Hacking
-     1.   https://lnkd.in/dnCWU-hp
-
-19. Def Con: The Documentary
-     1.   https://lnkd.in/dPE4jVVA
-
-20. Web Warriors
-     1.   https://lnkd.in/dip22djp
-
-21. Risk (2016)
-     1.   https://lnkd.in/dMgWT-TN
-
-22. Zero Days (2016)
-     1.   https://lnkd.in/dq_gZA8z
-
-23. Guardians Of The New World (Hacking Documentary) | Real Stories
-     1.   https://lnkd.in/dUPybtFd
-
-24. A Origem dos Hackers
-     1.   https://lnkd.in/dUJgG-6J
-
-25. Breach
-     1.   https://imdb.com/title/tt0401997/
-
-27. The Great Hack
-     1.   https://lnkd.in/dp-MsrQJ
-
-28. The Networks Dilemma
-     1.   https://lnkd.in/dB6rC2RD
-
-29. 21st Century Hackers
-     1.   https://lnkd.in/dvdnZkg5
-
-30. Cyber War - Dot of Documentary
-     1.   https://lnkd.in/dhNTBbbx
-
-31. CyberWar Threat - Inside Worlds Deadliest Cyberattack
-32. The Great Hack
-     1. https://en.wikipedia.org/wiki/The_Great_Hack
-
-33. Snodan:
-     1. https://en.wikipedia.org/wiki/Snowden_(film)
-
-34. The Future of Cyberwarfare
-     1.   https://www.youtube.com/watch?v=L78r7YD-kNw
-
-35. Dark Web Fighting Cybercrime Full Hacking
-     1.   https://www.youtube.com/watch?v=PjfX4CjSVGE
-
-36. Cyber Defense: Military Training for Cyber Warfare
-     1.   https://www.youtube.com/watch?v=rcDizlmjNQY
-
-37. Hacker Hunter: WannaCry The History Marcus Hutchin
-     1.   https://www.youtube.com/watch?v=vveLaA-z3-o
-
-38. The Life Hacker Documentary
-     1.   https://www.youtube.com/watch?v=TVgJmAJsOeQ
-
-39. Hacker The Realm and Electron - Hacker Group
-     1.   https://www.youtube.com/watch?v=GcnkEPTy3QI
-
-40.	Many more options here:
-     1.   https://www.studynotesandtheory.com/single-post/if-you-re-studying-for-the-cissp-watch-these-movies
-
-42.	Suggest a media source to your instructor
+13.	Suggest a media source to your instructor
 
 ### Professional (0 – 3)
 1.	Create 3 different google job search alerts for jobs that interest you.
@@ -231,23 +157,14 @@ tron
 4.	Get hired for an internship
      1.	Daily Double: Counts for 2 assignments
 5.	Job Shadow someone in your industry
-6.	Attain a certificate for your field (Security+, Networking+, CCNA, etc…)
+6.	Attain a certificate for your field
 7.	Suggest a professional development activity to your instructor
 
 ### Other (0 - *)
 1.	Apply for a scholarship.
 2.	Become a Tutor in your program
-     1.	Daily Double: Counts for 2 assignments
 3.	Community service or volunteer involvement – suggest an opportunity to your instructor.
 4.	Employment - Maintain a job outside of class for the semester
-5.	TrustedSec Resources
-     1.	Complete a training, webinar, get an internship, play with an open source tool, or use another resource from TrustedSec: https://www.trustedsec.com/wp-content/uploads/2022/03/Student-Career-Resources.pdf
-
-6.	Build something cool and optionally present on it
-     1.	Home security lab
-     1.	Gaming PC
-     1.	Router from scratch
-     1.	Pown-a-gachi
-     1.	Raspberry Pi or Arduino board project
-     1.	Arcade cabinet
-7.	Suggest your own project or idea for Pro Points. Suggest the idea before you complete it to ensure it will be approved for credit
+5.	Participate in the advent of code contest
+     1.	https://adventofcode.com/
+6.	Suggest your own project or idea for Pro Points. Suggest the idea before you complete it to ensure it will be approved for credit
