@@ -96,22 +96,6 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
 
 ### Media (0 – 1)
 
-
-
-
-
-
-
-
-"" (2014) is a psychological thriller that explores the relationship between a programmer and a humanoid AI he created.
-"The Terminator" (1984) is a classic science fiction film about a cyborg assassin sent back in time to kill Sarah Connor, the future mother of the leader of the human resistance.
-"" (2004) is a science fiction film set in a future where robots are a common sight in everyday life and follows a detective who investigates a murder committed by a robot.
-"" (2014) is a science fiction film that explores the creation of a super-intelligent AI and its consequences.
-
-
-
-
-
 1.	Pirates of silicon valley
      1.	https://www.imdb.com/title/tt0168122/
 
