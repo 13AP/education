@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Brent Presley">
+    <meta name="description" content="No description yet">
+    <meta name="keywords" content="list, your, keywords">
+
+    <title>Weight Calculator Results</title>
+    <style type='text/css'>
+        #header {text-align:center;}
+        #main	{clear:both}
+    </style>
+</head>
+
+<body>
+<div id="header">
+    <img src='images/scale.png' width='146' height='168' alt='Scale image' style='float:left'>
+    <img src='images/scale.png' width='146' height='168' alt='Scale image' style='float:right'>
+    <h1>Weight Calculation Results</h1>
+
+</div>
+
+<form method="post" action="index.html">
+    <input type="hidden" name="sampleDate" value="hiddenvalue">
+    <!-- put a button here -->
+    <button type='submit' class='buttonStyle' id='btnSubmit' name='btnSubmit'>Submit</button>
+    <button type='reset' class='buttonStyle' id='btnReset' name='btnReset'>Reset</button>
+
+</form>
+
+<div id="main">
+    <p>Item name: <strong></strong></p>
+    <p>Weight(lb): <strong></strong></p>
+    <p>Weight(oz): <strong></strong></p>
+    <p>Quantity: <strong></strong></p>
+    <p>Date: <strong></strong></p>
+    <p>
+        End pounds is <br>
+        End ounces is <br>
+        Ordered on <br>
+        Delivered on
+    </p>
+
+
+</div>
+<div id="footer">
+</div>
+</body>
+</html>
+

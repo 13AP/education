@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Brent Presley">
+    <meta name="description" content="Unit 2 Total Inclass Sample">
+    <meta name="keywords" content="Unit 2">
+    <title>Total Weight Calculator</title>
+
+    <script type="text/javascript" src="javascript/weights.js"></script>
+    <script type="text/javascript" src="javascript/toTitleCase.js"></script>
+    <script type="text/javascript" src="javascript/IntegerKeyPress.js"></script>
+    <script type="text/javascript" src="javascript/FormatNumber.js"></script>
+    <script type="text/javascript" src="javascript/isDate.js"></script>
+    <script type="text/javascript" src="javascript/DateFormat.js"></script>
+    <script type="text/javascript" src="javascript/Validation.js"></script>
+    <style type='text/css'>
+        #header {text-align:center;}
+
+        #main	{clear:both}
+
+        form {
+            clear:both;
+            padding: 10px;
+            min-width:550px;
+        }
+
+        label {
+            text-align:right;
+            float: left;
+            width: 12em;
+            padding-right: .5em;
+            vertical-align:top;
+        }
+
+        input, select, textarea, fieldset {
+            margin-bottom:.5em;
+        }
+
+        br {
+            clear:both;
+        }
+
+
+        .numberInputStyle {
+            text-align:right;
+        }
+
+    </style>
+</head>
+
+<body>
+
+
+<div id="header">
+    <img src='images/scale.png' width='146' height='168' alt='Scale image' style='float:left'>
+    <img src='images/scale.png' width='146' height='168' alt='Scale image' style='float:right'>
+    <h1>Total Weight Calculator</h1>
+</div>
+<div id="main">
+    <form id='frmWeight' method='get' action='results.html'>
+        <label for='txtItemName'>Item name:</label>
+        <input type='text' name='itemName' id='txtItemName' size='15'>
+        <img src="images/Error.gif" id="errItemName" width="14" height="14" alt="Error icon" style="visibility:hidden; margin-left:5px;">
+        <br>
+
+        <label >Weight of one item:</label>
+        <input type='number' name='itemWeightLb' id='numItemWeightLb' size='10' class='numberInputStyle'> Lbs
+        <img src="images/Error.gif" id="errItemWeightLb" width="14" height="14" alt="Error icon" style="visibility:hidden; margin-left:5px;">
+        <input type='number' name='itemWeightOz' id='numItemWeightOz' size='10' class='numberInputStyle'> Oz
+        <img src="images/Error.gif" id="errItemWeightOz" width="14" height="14" alt="Error icon" style="visibility:hidden; margin-left:5px;">
+        <br>
+
+        <label for='txtNumberOfItems'>Number of this item:</label>
+        <input type='number' name='numberOfItems' id='numNumberOfItems' size='10' class='numberInputStyle'>
+        <img src="images/Error.gif" id="errNumberOfItems" width="14" height="14" alt="Error icon" style="visibility:hidden; margin-left:5px;">
+        <br>
+
+        <label for='dtpSampleDate'>Sample date:</label>
+        <input type='date' name='sampleDate' id='dtpSampleDate'>
+        <img src="images/Error.gif" id="errSampleDate" width="14" height="14" alt="Error icon" style="visibility:hidden; margin-left:5px;">
+        <br>
+
+        <label>&nbsp;</label>
+        <button type='submit' class='buttonStyle' id='btnSubmit' name='btnSubmit'>Show Total Weight</button>
+        <button type='reset' class='buttonStyle' id='btnReset' name='btnReset'>Start Over</button><br><br>
+
+        <!-- radio buttons -->
+        <input type="radio" id="yes" name="yesno">
+        <label for="yes">yes</label><br>
+        <input type="radio" id="no" name="yesno">
+        <label for="no">no</label><br>
+
+        <!-- Checkboxes -->
+        <input type="checkbox" id="Box1" name="boxes">
+        <label for="Box1">Box 1</label><br>
+        <input type="checkbox" id="Box2" name="boxes">
+        <label for="Box2">Box 2</label><br>
+        <input type="checkbox" id="Box3" name="boxes">
+        <label for="Box3">Box 3</label><br>
+
+        <label for="country">Choose a country:</label>
+
+        <select name="country" id="country">
+            <option value="empty">------</option>
+            <option value="US">US</option>
+            <option value="UK">UK</option>
+            <option value="France">France</option>
+            <option value="China">China</option>
+        </select><br>
+
+        <!-- Click this submit button to check the validation for the assignment. Validation checked at Validation.js -->
+        <button type='button' class='buttonStyle' id='yesnoSubmit' name='yesnoSubmit' onclick="ValidationCheck()">Check validation</button>
+    </form>
+</div>
+<div id="footer">
+</div>
+
+</body>
+
+</html>
