@@ -1,0 +1,33 @@
+name: Minify and Obfuscate
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          npm install
+      - name: Minify CSS
+        run: |
+          npm run minify:css
+      - name: Obfuscate JavaScript
+        run: |
+          npm run obfuscate:js
+      - name: Commit changes
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git commit -am "Minify CSS and obfuscate JavaScript"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
