@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A project that minifies CSS and obfuscates JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "minify:css": "npx cssnano -o dist/main.min.css src/main.css",
+    "obfuscate:js": "npx javascript-obfuscator --output dist/main.min.js src/main.js"
+  },
+  "dependencies": {
+    "cssnano": "^5.0.8",
+    "javascript-obfuscator": "^1.1.1"
+  }
+}
