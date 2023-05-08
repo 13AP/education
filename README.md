@@ -26,8 +26,7 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
      1.	You can attend more than one event for credit as long as the event is different. For example, you cannot attend 2 board game nights and earn credit for both.
 2.	Attend or Volunteer at an Industry Conference
      1.	CypherCon, SuperCon, Secure/Career 360, WI Governor's Cybersecurity Summit, BSides, Cyber Security Summit, Deadwood, Wild West Hackin Fest, GrrCON, SANS Summits, RSA Conference, BlueTeamCon, Summerfext Tech (https://www.summerfest.com/tech/
-), THAT Conference (https://that.us/that-conference/) etc…
-     1.	Daily Double: Counts for 2 assignments
+), THAT Conference (https://that.us/that-conference/) etc… *Worth 2 points
 3.	Attend an Ignite Young Professionals Event
      1.	https://www.facebook.com/IgnitePortageCountyWI/events/
 
@@ -39,11 +38,12 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
 
 6.	Attend an Industry Online Webinar
 7.	Plan or volunteer at a conference at Mid-State
-8.	Suggest an event to your instructor
+8.   Plan or volunteer at a volunteer organization (e.g. United Way, Red Cross)
+9.	Suggest an event to your instructor
 
 ### Organizations (0 – 3)
 1.	Act as a Gaming Club Leader (Hold a position or run an event)
-2.	Become a member of any student organization on campus
+2.	Become a member of any student organization on campus (excluding Mid-State Cyber-Cougars (you're already a member if you do step 1)
 3.	Be a member of a professional association or group (Toastmasters, CWITA, etc…)
 4.	Become a member and join an initiative with The Knoble
      1.	https://www.theknoble.com/
@@ -53,12 +53,9 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
 
      1.	Join newsletter, Read blog or resources and/or donate.
 6.	Become a mentee
-     1.	Through CWITA (http://cwita.org/about/
-)
-     1.	Through another org or individual
 7.	Suggest an organization to your instructor
 
-### News and Information (0 – 1)
+### News and Information (0 – 1) *1 point max per semester
 1.	Sign up for the tldr Newsletter
      1.	https://tldr.tech/
 
@@ -94,7 +91,7 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
 12.	Read a book and review it
 13.	Suggest a news source to your instructor
 
-### Media (0 – 1)
+### Media (0 – 1) *1 point max per semester
 
 1.	Pirates of silicon valley
      1.	https://www.imdb.com/title/tt0168122/
@@ -135,13 +132,12 @@ Below are a list of assignment ideas to earn your professional points credit. Yo
 1.	Create 3 different google job search alerts for jobs that interest you.
      1.	[Google Jobs Search](https://www.google.com/search?q=IT+jobs&rlz=1C1GCEA_enUS961US961&oq=gooogle+jobs+search&aqs=chrome.1.69i57j0i13l6j0i22i30l2j0i22i30i457.3655j0j7&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwit3KLB_9f4AhXHKkQIHY_eBjkQutcGKAF6BAgSEAY&sxsrf=ALiCzsZW5h5l6slM3KbgE-nFc_ckM_Gm8A:1656689013605#fpstate=tldetail&htivrt=jobs&htidocid=gkExRtNPuw8AAAAAAAAAAA%3D%3D
 )
-2.	Get a Professional Headshot
+2.	Get a Professional Headshot for your LinkedIn profile
 3.	Schedule a meeting or attend an event for Professional Development with Joe P.
-     1.	Job fair, resume review, time management, etc…
-4.	Get hired for an internship
-     1.	Daily Double: Counts for 2 assignments
+     1.	Job fair, reverse job fair, resume review, time management, etc…
+4.	Get hired for an internship *Worth 2 points
 5.	Job Shadow someone in your industry
-6.	Attain a certificate for your field
+6.	Attain a certificate for your field *Worth 2 points
 7.	Suggest a professional development activity to your instructor
 
 ### Other (0 - *)
