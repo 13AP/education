@@ -1,150 +1,117 @@
-# education
-Mid-State education account
-
 # Professional Points – Assignment Ideas
 
-Professional Points, or Pro Points, are a way for you as a student to engage in the IT community.
+Professional Points (Pro Points) are designed to get you out of the classroom and into the real-world IT community. 
 
-Below are a list of assignment ideas to earn your professional points credit. You must choose 6 different ideas across at least 3 of the categories below. Each category has some specific requirements after it. The number after the category name is the amount of assignments you should consider doing from that category. For example, the Media category has (0-1) after it, so you can do as little as none from that category and at most one, but no more than one. The Events category has (1 - *) so you must do one assignment from this category and have the option for many of your assignments to come from this category (remember you need to have assignments from 3 different categories).
+**How to earn credit:**
+* Complete **6 different activities** across **at least 3 different categories** below.
+* Check the numbers next to each category (e.g., `0–1` or `1–*`). That tells you the minimum and maximum number of points you can earn from that bucket.
+* *Note: Unless an item says "No write-up necessary," submit a brief reflection (what you did, what you learned, and proof of attendance/completion).*
+
+---
 
 ### Required (1)
-1.	Join the Mid-State Cyber Cougars Discord Group and Teams channel
-     1.   Discord:
-          1.	Invite for discord here: https://discord.gg/BjBjdYD5kP
+1. **Join the Mid-State Cyber Cougars (Engage & Teams)**
+   * **Engage:** Go to the [Mid-State Cyber Cougars Engage Page](https://mstc.campuslabs.com/engage/organization/it) and join the organization.
+   * **Teams:** Join the [Mid-State Cyber Cougars Teams Group](https://teams.microsoft.com/l/team/19%3ab4e1c95933c44670a140dced94eaafda%40thread.tacv2/conversations?groupId=abc3d8a1-f609-4ebd-9f0b-2b47acf34066&tenantId=2d0c965b-8fc1-4bc0-b627-a39e7823c253) and check out the **Events** tab in the General channel.
+   * **Submission:** No write-up necessary—just upload a screenshot of your Teams intro post and your Engage membership.
 
-          1.	Introduce yourself and post a meme on discord
-     1.   Teams:
-          1. Join the Teams group here: [Mid-State Cyber Cougars Teams Group](https://teams.microsoft.com/l/team/19%3ab4e1c95933c44670a140dced94eaafda%40thread.tacv2/conversations?groupId=abc3d8a1-f609-4ebd-9f0b-2b47acf34066&tenantId=2d0c965b-8fc1-4bc0-b627-a39e7823c253
-).
-          2. Look at the Events tab at the top of the general channel.
-     3.	No write up neccessry for this pro points assignment, just post an image of your discord intro and the Teams group events page.
+---
 
-### Events (1 – *)
-1.	Attend a Gaming Club Event
-     1.	View Discussion and Events on our [Mid-State Cyber Cougars Teams Group](https://teams.microsoft.com/l/team/19%3ab4e1c95933c44670a140dced94eaafda%40thread.tacv2/conversations?groupId=abc3d8a1-f609-4ebd-9f0b-2b47acf34066&tenantId=2d0c965b-8fc1-4bc0-b627-a39e7823c253
-).
-     1.	You can attend more than one event for credit as long as the event is different. For example, you cannot attend 2 board game nights and earn credit for both.
-2.	Attend or Volunteer at an Industry Conference
-     1.	CypherCon, SuperCon, Secure/Career 360, WI Governor's Cybersecurity Summit, BSides, Cyber Security Summit, Deadwood, Wild West Hackin Fest, GrrCON, SANS Summits, RSA Conference, BlueTeamCon, Summerfext Tech (https://www.summerfest.com/tech/
-), THAT Conference (https://that.us/that-conference/) etc… ***Worth 2 points***
-3.	Attend an Ignite Young Professionals Event
-     1.	https://www.facebook.com/IgnitePortageCountyWI/events/
+### Events & Community (1 – *)
+*You must do at least 1 item here. You can do multiple as long as they are unique events (e.g., two different workshops count, two identical game nights do not).*
 
-4.	Attend a Mid-State Continuing Education Class or other Mid-State Event
-     1.	https://www.facebook.com/MidStateTech/events/
+1. **Attend a Cyber Cougars IT Club Event**
+   * Check the Teams group or Engage page for upcoming meetings, guest speakers, or workshops.
+2. **Attend or Volunteer at an Industry Conference** *(Worth 2 points)*
+   * Local/Regional examples: CypherCon (Milwaukee), THAT Conference (Wisconsin Dells), BSides, BlueTeamCon, Summerfest Tech, WI Governor’s Cybersecurity Summit, or Mid-State’s own Tech-Con.
+3. **Compete in a Hackathon, Game Jam, or CTF (Capture the Flag)** *(Worth 2 points)*
+   * Compete in an in-person or virtual coding jam, cybersecurity CTF (like National Cyber League), or weekend build sprint.
+   * **Where to find them:** Browse upcoming student-friendly hackathons on [Major League Hacking (MLH)](https://mlh.io/events) or find virtual hackathons and game jams on [Devpost](https://devpost.com/hackathons).
+4. **Attend a Local Networking or Young Professionals Event**
+   * Examples: Ignite Young Professionals (Portage/Wood County), Central Wisconsin IT Alliance (CWITA) meetups, or local Chamber tech events.
+5. **Attend a Mid-State Student Life or Continuing Ed Event**
+   * Check the [Mid-State Events Calendar](https://www.mstc.edu/events) or Student Life boards for campus workshops and activities.
+6. **Attend a Live Industry Webinar or Virtual Summit**
+   * Must be live (not a pre-recorded YouTube video) from a recognized tech vendor, security group, or dev community.
+7. **Volunteer with a Local Non-Profit**
+   * Help out with United Way, Red Cross, or offer basic tech/digital literacy help at a local library or community center.
 
-5.	Attend a Mid-State Student Life Event
-     1.	https://www.facebook.com/groups/mstclife/events
+---
 
-6.	Attend an Industry Online Webinar
-7.	Plan or volunteer at a conference at Mid-State
-8.   Plan or volunteer at a volunteer organization (e.g. United Way, Red Cross)
-9.	Suggest an event to your instructor
+### Organizations & Leadership (0 – 3)
+1. **Hold a Leadership Role in a Student Organization** *(Worth 2 points)*
+   * Serve as an officer or event coordinator for Cyber Cougars, Phi Theta Kappa (PTK), Student Senate, or another campus club.
+2. **Join Another Campus Organization**
+   * Become an active member of a second Mid-State club outside of Cyber Cougars.
+3. **Join a Professional Tech Association**
+   * Become a student member of groups like CWITA, IEEE, ACM, Women in Technology (WIT), or ISACA.
+4. **Contribute to Tech-for-Good Initiatives**
+   * Get involved with organizations like [The Knoble](https://www.theknoble.com/) or [The Innocent Lives Foundation](https://www.innocentlivesfoundation.org/) (subscribe, engage with resources, or participate in community initiatives).
+5. **Participate in a Mentorship Program**
+   * Pair up with an industry mentor or an upper-level student mentor for regular career/code check-ins.
 
-### Organizations (0 – 3)
-1.	Act as a Gaming Club Leader (Hold a position or run an event)
-2.	Become a member of any student organization on campus (excluding Mid-State Cyber-Cougars (you're already a member if you do step 1)
-3.	Be a member of a professional association or group (Toastmasters, CWITA, etc…)
-4.	Become a member and join an initiative with The Knoble
-     1.	https://www.theknoble.com/
+---
 
-5.	Get involved with The Innocent Lives Foundation
-     1.	https://www.innocentlivesfoundation.org/
+### Career & Professional Prep (0 – 3)
+1. **Land an IT/Dev Internship** *(Worth 2 points)*
+   * Secure a paid or unpaid internship in software development, IT support, networking, or cybersecurity.
+2. **Earn an Industry Certification** *(Worth 2 points)*
+   * Pass a recognized cert exam (e.g., CompTIA A+/Network+/Security+, AWS Cloud Practitioner, Azure Fundamentals, Google Cloud, or Cisco CCST).
+3. **Build & Deploy a Live Portfolio Site or GitHub Profile**
+   * Create a personal portfolio website (with a custom domain or GitHub Pages) showcasing at least 2 projects, or overhaul your GitHub profile with clean READMEs and pinned repos.
+4. **Meet with Mid-State Career Services (Joe P.)**
+   * Schedule a 1-on-1 for a resume review, mock interview, LinkedIn audit, or attend a campus Job Fair / Reverse Job Fair.
+5. **Optimize Your LinkedIn & Job Alerts**
+   * Update your LinkedIn with a professional headshot, headline, and skills, AND set up 3 targeted job alerts on LinkedIn, Indeed, or Google Jobs.
+6. **Conduct an Informational Interview or Job Shadow**
+   * Shadow an IT professional for a few hours or buy a local developer/sysadmin a coffee (virtual or in-person) to ask about their day-to-day work.
 
-     1.	Join newsletter, Read blog or resources and/or donate.
-6.	Become a mentee
-7.	Suggest an organization to your instructor
+---
 
-### News and Information (0 – 1) *1 point max per semester
-1.	Sign up for the tldr Newsletter
-     1.	https://tldr.tech/
+### News, Podcasts & Deep Dives (0 – 1)
+*Max 1 point per semester from this category.*
 
-2.	Subscribe to the Code Project Newsletter
-     1.   https://www.codeproject.com/script/Membership/Modify.aspx
+1. **Subscribe to a Daily/Weekly Tech Newsletter**
+   * Read for at least 3 weeks and summarize your favorite articles. Good picks: [TLDR Tech](https://tldr.tech/), [Hacker Newsletter](https://hackernewsletter.com/), [Bytes.dev](https://bytes.dev/), or [Krebs on Security](https://krebsonsecurity.com/).
+2. **Listen to a Tech or Cybersecurity Podcast**
+   * Listen to at least 3 episodes and summarize key takeaways. Good picks: *Darknet Diaries*, *Syntax.fm*, *Hanselminutes*, *The Changelog*, *Security Now*, or *CodeNewbie*.
+3. **Read a Technical White Paper or Industry Report**
+   * Read an 8+ page report (e.g., Verizon Data Breach Investigations Report, Stack Overflow Developer Survey, or an OWASP guide) and write a brief review.
+4. **Read a Tech or Career Book**
+   * Read a non-fiction book related to coding, security, or tech culture (e.g., *The Phoenix Project*, *Ghost in the Wires*, *Clean Code*, *Sandworm*) and write a short review.
 
-3.   Subscribe to the Tech Republic Newsletter
-     1.   https://www.techrepublic.com/newsletters/
+---
 
-4.   Subscribe to the Github Explore
-     1.   https://github.com/explore/email
+### Media & Tech Culture (0 – 1)
+*Max 1 point per semester from this category. Watch one of the following (or pitch a relevant tech documentary) and write a reflection on the tech/ethical themes involved.*
 
-5.	Subscribe to the Hanselminutes Podcast
-     1.	https://hanselminutes.com/
+1. **Documentaries:**
+   * *Hacking Google* (YouTube Series)
+   * *The Social Dilemma*
+   * *AlphaGo*
+   * *Lo and Behold: Reveries of the Connected World*
+   * *Zero Days*
+2. **Movies:**
+   * *The Imitation Game*
+   * *The Social Network*
+   * *Pirates of Silicon Valley*
+   * *Ex Machina*
+   * *WarGames*
+   * *Hidden Figures*
+   * *Snowden*
 
-6.   Subcribe to the Arstechnica bloc
-     1.   https://arstechnica.com/tag/blog/
+---
 
-7.	Subscribe to the ChangeLog
-     1.   https://changelog.com/podcast
-
-8.   Subscribe to The Langley Files: A CIA Podcast
-     1.   https://podcasts.apple.com/us/podcast/the-langley-files-a-cia-podcast/id1645885248
-
-9.   Subscribe to the SyntaxFM
-     1.   https://syntax.fm/
-
-9.   Subscribe to CodeNewbie podcast
-     1.   https://www.codenewbie.org/podcast
-
-10.	Read a white paper (8+ pages) on a topic related to your major
-11.	Subscribe and listen to an industry podcast
-12.	Read a book and review it
-13.	Suggest a news source to your instructor
-
-### Media (0 – 1) *1 point max per semester
-
-1.	Pirates of silicon valley
-     1.	https://www.imdb.com/title/tt0168122/
-
-2.	The social network
-     1.	https://www.imdb.com/title/tt1285016/
-
-3.	Hacking Google Series
-     1.   https://www.youtube.com/playlist?app=desktop&list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H
-
-5.	War Games
-     1.	https://www.imdb.com/title/tt0086567/
-
-6.	Catch Me if You Can
-     1.	https://www.imdb.com/title/tt0264464/
-
-7.	Jobs
-     1.	https://www.imdb.com/title/tt2357129/
-
-8.	Ex Machina
-     1.	https://www.imdb.com/title/tt0470752/
-
-9.	The Terminator
-     1.	https://www.imdb.com/title/tt0088247/
-
-10.	The Imitation Game
-     1.   https://www.imdb.com/title/tt2084970/
-     
-11.	I, Robot
-     1.   https://www.imdb.com/title/tt0343818/
-     
-12.	Transcendence
-     1.   https://www.imdb.com/title/tt2209764/
-
-13.	Suggest a media source to your instructor
-
-### Professional (0 – 3)
-1.	Create 3 different google job search alerts for jobs that interest you.
-     1.	[Google Jobs Search](https://www.google.com/search?q=IT+jobs&rlz=1C1GCEA_enUS961US961&oq=gooogle+jobs+search&aqs=chrome.1.69i57j0i13l6j0i22i30l2j0i22i30i457.3655j0j7&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwit3KLB_9f4AhXHKkQIHY_eBjkQutcGKAF6BAgSEAY&sxsrf=ALiCzsZW5h5l6slM3KbgE-nFc_ckM_Gm8A:1656689013605#fpstate=tldetail&htivrt=jobs&htidocid=gkExRtNPuw8AAAAAAAAAAA%3D%3D
-)
-2.	Get a Professional Headshot for your LinkedIn profile
-3.	Schedule a meeting or attend an event for Professional Development with Joe P.
-     1.	Job fair, reverse job fair, resume review, time management, etc…
-4.	Get hired for an internship ***Worth 2 points***
-5.	Job Shadow someone in your industry
-6.	Attain a certificate for your field ***Worth 2 points***
-7.	Suggest a professional development activity to your instructor
-
-### Other (0 - *)
-1.	Apply for a scholarship.
-2.	Become a Tutor in your program
-3.	Community service or volunteer involvement – suggest an opportunity to your instructor.
-4.	Employment - Maintain a job outside of class for the semester
-5.	Participate in the advent of code contest
-     1.	https://adventofcode.com/
-6.	Suggest your own project or idea for Pro Points. Suggest the idea before you complete it to ensure it will be approved for credit
+### Above & Beyond / Other (0 – *)
+1. **Become a Program Tutor** *(Worth 2 points)*
+   * Work as an official Mid-State peer tutor for IT or Software Development courses.
+2. **Compete in Advent of Code or LeetCode Challenges**
+   * Complete at least 10 days of [Advent of Code](https://adventofcode.com/) or solve 15+ algorithmic challenges on LeetCode/HackerRank.
+3. **Contribute to Open Source**
+   * Submit a valid pull request (code, bug fix, or documentation) to an open-source project on GitHub.
+4. **Apply for an IT or STEM Scholarship**
+   * Submit an application for a Mid-State Foundation scholarship or an external tech scholarship.
+5. **Maintain Relevant Employment**
+   * Work a part-time or full-time job in tech, helpdesk, or a technical trade during the semester.
+6. **Pitch Your Own Project or Idea**
+   * Have a cool side project, hardware build, or community idea? Pitch it to your instructor **before** starting to get it approved for Pro Points.
